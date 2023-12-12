@@ -155,9 +155,11 @@ span{
 
 }
 
-#line{
-    height: 4px;
-    background-color: #552c2c;
-    width: 100%;
+.navbox{
+    margin-left: 300px;
+    margin-right: 300px;
+    border-bottom: 3px solid rgb(85, 30, 30);
+    border-right: 2px solid rgb(95, 34, 34);
+    box-shadow: 4px 4px 4px 2px rgba(65, 52, 52, 0.2);
 }
 
